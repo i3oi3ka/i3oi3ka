@@ -1,4 +1,3 @@
-Markdown
 # Hi there, I'm Volodymyr Ruday 👋
 
 **Full-Stack Software Engineer & Network Infrastructure Expert**
