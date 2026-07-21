@@ -52,6 +52,6 @@ Currently pursuing my Master's in Software Engineering at Neoversity, diving dee
 
 ### 📫 Let's Connect
 
-- **LinkedIn:** [Volodymyr Ruday](#) *(додай сюди посилання на свій профіль)*
+- **LinkedIn:** [Volodymyr Ruday](#) *(https://www.linkedin.com/in/i3oi3ka/)*
 - **Email:** rudayvova@gmail.com
-- **CodeWars:** [My Profile](#) *(додай сюди посилання)*
+- **CodeWars:** [My Profile](#) *(https://www.codewars.com/users/i3oi3ka)*
