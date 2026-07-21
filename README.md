@@ -36,7 +36,7 @@ Currently pursuing my Master's in Software Engineering at Neoversity, diving dee
 
 ### 🚀 Highlighted Projects
 
-*   **[SoYummy](https://github.com/i3oi3ka/soyummy)** — A full-stack culinary social network. Built a mobile-first SPA with React 18/Redux and engineered a secure REST API using Node.js, Express, and Sequelize. Features include JWT authentication, recipe CRUD, and Cloudinary integration for media.
+*   **[SoYummy](https://github.com/i3oi3ka/react_nodejs_team_repo)** — A full-stack culinary social network. Built a mobile-first SPA with React 18/Redux and engineered a secure REST API using Node.js, Express, and Sequelize. Features include JWT authentication, recipe CRUD, and Cloudinary integration for media.
 *   **Travel Trucks** — A campervan rental SPA built with React, Redux Toolkit, and React Router. Implemented dynamic catalog filtering, a validated booking form, and a local-state favorites system.
 *   **LeadFlow** *(Internal/Architecture)* — A specialized CRM and invoice management utility tailored for independent freelancers, encompassing comprehensive feature backlogs, user stories, and financial data models.
 *   **Cloud Migration (AWS EKS)** — Deployed a containerized application to AWS EKS utilizing Helm, Jenkins automation, and Terraform infrastructure-as-code.
